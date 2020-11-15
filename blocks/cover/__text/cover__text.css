@@ -1,0 +1,12 @@
+.cover__text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    grid-row: 1;
+    grid-column: 1;
+    z-index: 1;
+}
+
+.cover__text:hover .cover__background {
+    opacity: 0.3;
+}

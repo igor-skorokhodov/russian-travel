@@ -1,0 +1,19 @@
+.place__url-heading_link {
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    letter-spacing: 0;
+    margin-top: 12px;
+    
+}
+
+.place__url-heading_link:link {
+    color: white;
+}
+
+.place__url-heading_link:hover {
+    opacity: 0.8;
+}

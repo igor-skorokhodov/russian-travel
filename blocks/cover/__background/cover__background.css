@@ -1,0 +1,9 @@
+.cover__background {
+    grid-row: 1;
+    grid-column: 1;
+    width: 100%;
+    opacity: 0.8;
+    background: #2A2C2F;
+}
+
+

@@ -1,0 +1,12 @@
+.place__url {
+    grid-row: 1;
+    grid-column: 2;
+    align-self: end;
+    grid-area: url;
+}
+
+@media screen and (max-width: 628px) {
+    .place__url {
+        display: none;
+    }
+}
