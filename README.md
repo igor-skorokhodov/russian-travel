@@ -19,6 +19,6 @@
 
 **Ссылка на проект**
 
-* [Ссылка на сайт на GitHub]()
+* [Ссылка на сайт на GitHub](https://igor-skorokhodov.github.io/russian-travel/)
 
 
