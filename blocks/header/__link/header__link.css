@@ -2,11 +2,18 @@
     display: inline-block;
     width: 28px;
     font-size: 24px;
-    font-family: Inter;
+    font-family: Inter, "Arial", sans-serif;
     margin-bottom: 0;
     color: white;
-    vertical-align: bottom;
-    
+    vertical-align: bottom; 
+}
+
+.header__link:first-child {
+    margin-right: 18px;
+}
+
+.header__link:hover {
+    opacity: 0.8;
 }
 
 @media screen and (max-width: 320px) {

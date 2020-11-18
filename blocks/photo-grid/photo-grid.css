@@ -8,3 +8,8 @@
     justify-content: center;
 }
 
+@media screen and (min-width: 1281px) {
+    .photo-grid {
+        grid-template-columns: 284px 284px 284px 284px;
+    }
+}
