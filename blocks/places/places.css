@@ -17,3 +17,9 @@
 .places:last-child {
    margin-bottom: 0;
 }
+
+@media screen and (min-width: 629px) and (max-width: 768px) {
+   .places {
+       width: 94%;
+   }
+}
